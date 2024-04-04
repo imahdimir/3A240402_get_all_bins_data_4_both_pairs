@@ -9,10 +9,10 @@ from pathlib import Path
 
 sys.path.append(Path.cwd().as_posix())
 
-from lib.lib import BINS
-from lib.lib import f
-from lib.lib import fp
-from lib.lib import v
+from prj.lib import BINS
+from prj.lib import f
+from prj.lib import fp
+from prj.lib import v
 
 ##
 def filter_then_random_draw_snps() :
