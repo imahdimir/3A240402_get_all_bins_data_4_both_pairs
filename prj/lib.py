@@ -8,10 +8,10 @@ BINS = np.arange(.3 , 1 , .01)
 
 env = get_env()
 
-class EnvVars :
+class Env :
     pgsf = 'pgsf'
 
-e = EnvVars()
+e = Env()
 
 class GDir :
     pass
