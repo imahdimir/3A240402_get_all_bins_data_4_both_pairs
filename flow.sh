@@ -7,4 +7,4 @@
 python py/filter_snps.py
 
 # Obtains the bgen files for the filtered snps
-bash shl/filter_bgen.sh
+bash sh/filter_bgen.sh
