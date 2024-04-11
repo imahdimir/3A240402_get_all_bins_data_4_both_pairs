@@ -75,7 +75,8 @@ def main() :
     pass
 
     ##
-    filter_then_random_draw_snps()
+    
+    # filter_then_random_draw_snps()
 
     ##
 

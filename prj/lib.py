@@ -50,5 +50,3 @@ class Vars :
     chr = 'chr'
 
 v = Vars()
-
-##
