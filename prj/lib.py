@@ -13,10 +13,10 @@ class Env :
 
 e = Env()
 
-class GDir :
+class Dir :
     pass
 
-g = GDir()
+g = Dir()
 
 class SFDir :
     sfn = PROJ + '-SF'
